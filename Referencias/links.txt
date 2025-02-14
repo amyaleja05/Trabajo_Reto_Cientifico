@@ -1,1 +1,17 @@
-links here:
+El experimento consiste en un aro con una masa desequilibrada  , que al rodar genera una fuerza variable que a la vez provoca la aceleración angular que modifica el la velocidad del aro, el momento de fuerza es máximo y la aceleración angular es positiva, lo que significa que el aro gira más rápido ,Por el contrario, cuando la masa está en la parte superior, el momento de fuerza es mínimo y la aceleración angular es negativa, frenando la rotación. 
+
+ En los siguientes artículos nos vamos a basar para hacer el experimento  , libro sugerido en el video  y videos 
+
+LIBRO 
+https://archive.org/details/mathematiciansmi033496mbp/page/n17/mode/2up
+VIDEOS 
+https://www.youtube.com/watch?v=GFxJWxPqGvQ  - es una simulación 
+https://www.youtube.com/watch?v=ETRpkp03stQ  -  video base que estaba en el documento 
+ARTICULOS 
+https://es.slideshare.net/slideshow/movimiento-circular-con-aceleracin-angular/14618621
+https://www.jstor.org/stable/2974983?seq=1
+https://www.tandfonline.com/doi/abs/10.1080/00029890.1999.12005094
+https://www.comsol.com/blogs/the-physics-of-a-hopping-hoop
+https://www.jstor.org/stable/2589468?seq=1
+https://www.sciencedirect.com/science/article/pii/S0895717702000766
+https://iopscience.iop.org/article/10.1088/1361-6404/ac2799/ampdf 
