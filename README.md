@@ -19,3 +19,8 @@ En este experimento se analiza cómo las variables físicas influyen en la apari
 ## 📁 **Estructura del Proyecto**
 
 La organización de este repositorio es la siguiente:
+
+#Documentacion[Documentacion link](https://github.com/amyaleja05/Trabajo_Reto_Cientifico/tree/main/Documentacion)
+#Codigos de Simulacion[Codigos_Simulacion link](https://github.com/amyaleja05/Trabajo_Reto_Cientifico/tree/main/Codigos_Simulacion))
+#Montaje Experimental[Montaje Experimental link](https://github.com/amyaleja05/Trabajo_Reto_Cientifico/tree/main/Montaje_Experimental)
+#Referencias[Referencias link](https://github.com/amyaleja05/Trabajo_Reto_Cientifico/tree/main/Referencias)
