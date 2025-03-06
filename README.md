@@ -19,4 +19,3 @@ En este experimento se analiza cómo las variables físicas influyen en la apari
 ## 📁 **Estructura del Proyecto**
 
 La organización de este repositorio es la siguiente:
-
