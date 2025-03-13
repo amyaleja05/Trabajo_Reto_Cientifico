@@ -20,10 +20,10 @@ En este experimento se analiza cómo las variables físicas influyen en la apari
 
 La organización de este repositorio es la siguiente:
 
-#[Documentacion link](https://github.com/amyaleja05/Trabajo_Reto_Cientifico/tree/main/Documentacion)
+#[Documentacion](https://github.com/amyaleja05/Trabajo_Reto_Cientifico/tree/main/Documentacion) Aca encontrara todo lo relacionado con nuestra documentacion, diapositivas en forma de breves informes sobre el avance del proyecto y con mas informacion sobre este que iremos actualizando constantemente.
 
-#[Codigos_Simulacion link](https://github.com/amyaleja05/Trabajo_Reto_Cientifico/tree/main/Codigos_Simulacion)
+#[Codigos_Simulacion](https://github.com/amyaleja05/Trabajo_Reto_Cientifico/tree/main/Codigos_Simulacion) En esta seccion encontrara los codigos o el material utilizado para hacer un simulacion del fenomeno en cuestion principalmente archivos de programas en 3D sobre el cual trabajaremos para lograr la simulacion.
 
-#[Montaje Experimental link](https://github.com/amyaleja05/Trabajo_Reto_Cientifico/tree/main/Montaje_Experimental)
+#[Montaje Experimental](https://github.com/amyaleja05/Trabajo_Reto_Cientifico/tree/main/Montaje_Experimental) Un breve registro, que funaciona como bitacora a su vez de el montaje experimental. Como lo hicimos y el proceso detras de nuestro estudio del fenomeno.
 
-#[Referencias link](https://github.com/amyaleja05/Trabajo_Reto_Cientifico/tree/main/Referencias)
+#[Referencias](https://github.com/amyaleja05/Trabajo_Reto_Cientifico/tree/main/Referencias) Referencias en las cuales no hemos basado para poder entender mejor el experimento, sus antecendentes y una vista al estudio previo del fenomeno.
