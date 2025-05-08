@@ -30,7 +30,7 @@ para determinar si la fuerza centrífuga de la masa desbalanceadora es suficient
 
 Haz clic en el siguiente botón para abrirlo directamente:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPO/blob/main/ruta/archivo.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amyaleja05/Trabajo_Reto_Cientifico/blob/main/Codigos_Simulacion/calculadora_saltos_avanzada.ipynb)
 
 > 🔁 Reemplaza `USUARIO/REPO/ruta/archivo.ipynb` por la ruta real en tu repositorio.
 
