@@ -1,42 +1,45 @@
-# 🌀 Calculadora del Salto del Aro Desbalanceado
+# 🧪 Simulación: Hopping Hoop (Aro Saltarín)
 
-Este cuaderno Jupyter (`.ipynb`) permite simular el comportamiento de un aro con una masa desbalanceadora adherida, y determinar si el sistema puede saltar en función de sus parámetros físicos.
-
----
-
-## 📚 ¿Qué puedes hacer con este cuaderno?
-
-✅ Verificar si el aro puede saltar  
-✅ Calcular cuántas veces saltaría en un intervalo de tiempo  
-✅ Estimar la altura máxima del salto  
-✅ Visualizar una gráfica del movimiento vertical con los saltos  
-✅ Modificar fácilmente los valores para nuevos experimentos
+Este repositorio contiene una simulación en Python, lista para Google Colab, basada en el experimento físico conocido como **Hopping Hoop**. El objetivo es **predecir si un aro saltará o no** cuando se le añade una masa extra, y cuántos saltos dará en función de dicha masa.
 
 ---
 
-## 🧠 ¿Cómo se basa el modelo?
+## 📐 Descripción del experimento
 
-El cuaderno usa la condición:
+En este experimento se hace rodar un aro o disco al que se le añade una masa extra interna. Al moverse, este sistema puede realizar **saltos espontáneos** debido a la conversión entre energía potencial, cinética y centrífuga.
 
-\[
-F_c = m \cdot \omega^2 \cdot r \geq (M + m) \cdot g
-\]
+### 🔍 Parámetros experimentales
 
-para determinar si la fuerza centrífuga de la masa desbalanceadora es suficiente para levantar el aro del suelo.
+- **Masa del aro:** 124 g (0.124 kg)  
+- **Radio del aro:** 14 cm (0.14 m)  
+- **Masa extra para 1 salto:** ~51 g (0.051 kg)  
+- **Masa extra para 2 saltos:** ~66 g (0.066 kg)  
+
+El código permite **simular el número de saltos** para una masa extra dada, y determinar **los rangos críticos** donde el salto ocurre o no.
 
 ---
 
-## ▶️ ¿Cómo abrirlo en Google Colab?
+## 🚀 ¿Qué incluye este repositorio?
 
-Haz clic en el siguiente botón para abrirlo directamente:
+- `hopping_hoop_simulacion.ipynb`: Cuaderno Jupyter compatible con Google Colab para correr la simulación.
+- Posibilidad de subir archivos `.trk` (opcional, desde Tracker Video Analysis).
+- Simulación sin gráficos, orientada a análisis numérico y toma de decisiones rápidas.
+- Interfaz de entrada sencilla con `input()`.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amyaleja05/Trabajo_Reto_Cientifico/blob/main/Codigos_Simulacion/calculadora_saltos_avanzada.ipynb)
+---
 
+## ✅ ¿Cómo usarlo?
 
-## 📥 Cómo usarlo localmente
+### En Google Colab
 
-Si prefieres ejecutarlo en tu máquina local:
+1. [Abre este enlace en Google Colab](https://colab.research.google.com/) o sube el `.ipynb`.
+2. Ejecutá las celdas una por una.
+3. Cuando te pida, **ingresá la masa extra en kilogramos** (por ejemplo: `0.066`).
+4. El sistema te dirá si hay **0, 1, 2 o 3 saltos**.
 
-1. Asegúrate de tener `Jupyter` y `matplotlib` instalados:
-   ```bash
-   pip install notebook matplotlib
+### En Jupyter Notebook local
+
+```bash
+git clone https://github.com/tuusuario/hopping-hoop-simulacion.git
+cd hopping-hoop-simulacion
+jupyter notebook hopping_hoop_simulacion.ipynb
